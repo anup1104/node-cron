@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "customer": "John Doe",
+    "amount": 250.75,
+    "status": "paid"
+  },
+  {
+    "id": 2,
+    "customer": "Jane Smith",
+    "amount": 480.00,
+    "status": "unpaid"
+  },
+  {
+    "id": 3,
+    "customer": "Michael Johnson",
+    "amount": 125.50,
+    "status": "paid"
+  },
+  {
+    "id": 4,
+    "customer": "Emily Davis",
+    "amount": 300.00,
+    "status": "unpaid"
+  },
+  {
+    "id": 5,
+    "customer": "Chris Brown",
+    "amount": 990.25,
+    "status": "paid"
+  },
+  {
+    "id": 6,
+    "customer": "Sophia Wilson",
+    "amount": 150.00,
+    "status": "unpaid"
+  },
+  {
+    "id": 7,
+    "customer": "David Miller",
+    "amount": 420.75,
+    "status": "paid"
+  },
+  {
+    "id": 8,
+    "customer": "Olivia Taylor",
+    "amount": 275.30,
+    "status": "unpaid"
+  },
+  {
+    "id": 9,
+    "customer": "Daniel Anderson",
+    "amount": 650.10,
+    "status": "paid"
+  },
+  {
+    "id": 10,
+    "customer": "Emma Thomas",
+    "amount": 320.00,
+    "status": "unpaid"
+  }
+]
